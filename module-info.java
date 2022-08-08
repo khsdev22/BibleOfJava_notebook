@@ -1,2 +1,2 @@
-module BibleOfJava {
+module BibleOfJava {	
 }
