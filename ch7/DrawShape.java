@@ -9,12 +9,12 @@ class DrawShape{
 		
 		Circle c = new Circle(new Point(150,150),50);
 		Triangle t = new Triangle(p);
-		
+		                                                                                                                                                                
 		c.draw();
 		t.draw();
 		
 	}
-}77
+}
 
 class Shape {
 	String color = "black";
